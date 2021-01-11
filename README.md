@@ -1,5 +1,6 @@
 # Front Template
 
+
 <!-- markdownlint-capture -->
 <h1 align= "center">|  Project  | Technology  | Layout |
  </p>
@@ -23,14 +24,6 @@ This project was developed with the  technologies:
 <br>
 
 ![2021-01-11_16-47](https://user-images.githubusercontent.com/64866875/104230845-e0199800-542c-11eb-954c-80893402a178.png)
-
-<br>
-
-![2021-01-11_16-45](https://user-images.githubusercontent.com/64866875/104230882-eb6cc380-542c-11eb-87a5-fae7b7d5e137.png)
-
-<br>
-
-![2021-01-11_16-45_1](https://user-images.githubusercontent.com/64866875/104230885-ec055a00-542c-11eb-82da-5cba83c5476c.png)
 
 <br>
 
